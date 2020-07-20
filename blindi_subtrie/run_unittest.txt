@@ -1,0 +1,1 @@
+rm ./a.out; g++ -g test_blindi_subtrie.cpp -Wall -I. -I..  -std=c++11; 

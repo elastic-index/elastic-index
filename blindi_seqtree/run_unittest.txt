@@ -1,0 +1,1 @@
+rm ./a.out; g++ -g -Wall  test_blindi_seqtree.cpp -I. -I../ -std=c++11 ; ./a.out
