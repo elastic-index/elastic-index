@@ -1,0 +1,89 @@
+insert counti 0
+Insert 1000000 took: 9172 [ms] -> Inserts per sec 109000
+sizeof(table) 1464.84 [MB]
+STX Seqtree stats:
+* leaf size:    24
+* leaf num:     124931
+* leaf slots:   16
+* inner size:   400
+* inner num:    15612
+* inner slots:  16
+* theoretical index size: 9243144
+* index capacity:         57216648
+* overall item count:     1000000
+ breathing_sum: 0, breathing_capacity 0
+ total_capacity: 54.5654 [MB] 
+ avgBYTE: 57.2166
+ insert_breathing: 0
+insert counti 0
+insert counti 1000000
+insert counti 2000000
+insert counti 0
+insert counti 1000000
+insert counti 2000000
+insert counti 3000000
+insert counti 4000000
+insert counti 5000000
+insert counti 6000000
+insert counti 7000000
+insert counti 8000000
+insert counti 9000000
+insert counti 10000000
+insert counti 11000000
+insert counti 12000000
+insert counti 13000000
+insert counti 14000000
+insert counti 15000000
+insert counti 16000000
+insert counti 17000000
+insert counti 18000000
+insert counti 19000000
+insert counti 20000000
+insert counti 21000000
+insert counti 22000000
+insert counti 23000000
+insert counti 24000000
+insert counti 25000000
+insert counti 26000000
+insert counti 27000000
+insert counti 28000000
+insert counti 29000000
+insert counti 30000000
+insert counti 31000000
+insert counti 32000000
+insert counti 33000000
+insert counti 34000000
+insert counti 35000000
+insert counti 36000000
+insert counti 37000000
+insert counti 38000000
+insert counti 39000000
+insert counti 40000000
+insert counti 41000000
+insert counti 42000000
+insert counti 43000000
+insert counti 44000000
+insert counti 45000000
+insert counti 46000000
+insert counti 47000000
+Insert 48000000 took: 438337 [ms] -> Inserts per sec 109000
+sizeof(table) 1464.84 [MB]
+STX Seqtree stats:
+* leaf size:    24
+* leaf num:     5933067
+* leaf slots:   16
+* inner size:   400
+* inner num:    740646
+* inner slots:  16
+* theoretical index size: 438652008
+* index capacity:         2716949736
+* overall item count:     48000000
+ breathing_sum: 0, breathing_capacity 0
+ total_capacity: 2591.08 [MB] 
+ avgBYTE: 56.6031
+ insert_breathing: 0
+finish search 
+finish calculate time 
+search 432000*3=1296000
+ took: 8664 [ms]
+ -> Searches per sec 149584

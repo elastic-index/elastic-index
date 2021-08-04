@@ -1,0 +1,87 @@
+INSTALL
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache/
+config.log
+config.status
+config/
+configure
+examples/chat
+examples/chat/.deps
+libtool
+src/.deps/
+src/libfmq.pc
+src/platform.h
+src/platform.h.in
+src/platform.h.in~
+src/stamp-h1
+tools/.deps/
+doc/*.1
+doc/*.3
+.libs/
+.dirstamp
+*.o
+*.lo
+*.la
+*.lst
+*.so
+*.swp
+core
+.cache
+testit
+*.pc
+src/zpinger
+src/ztester
+src/ztester_beacon
+src/ztester_gossip
+src/perf_local
+src/perf_remote
+doit
+src/zyre_selftest
+src/test-suite.log
+src/zyre_selftest.log
+src/zyre_selftest.trs
+
+CMakeCache.txt
+CMakeFiles/
+Testing/
+CTestTestfile.cmake
+cmake_install.cmake
+install_manifest.txt
+src/libzyre.so
+include/platform.h
+src/platform.h.in
+*.log
+
+# config files for qtcreator
+zyre.config
+zyre.creator
+zyre.files
+zyre.includes
+
+# Windows build intermediate files
+*.suo
+*.sdf
+*.user
+*.opensdf
+bin/
+obj/
+builds/msvc/**/*Debug
+builds/msvc/**/*Release
+
+# eclipse setting
+.cproject
+.project
+
+# android build results
+builds/android/prefix/
+
+# Python bindings
+*.pyc
+
+# vagrant
+.vagrant
+
+# CLion
+.idea

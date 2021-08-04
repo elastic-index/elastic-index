@@ -1,0 +1,69 @@
+insert counti 0
+insert counti 1000000
+insert counti 2000000
+insert counti 3000000
+insert counti 4000000
+insert counti 5000000
+insert counti 6000000
+insert counti 7000000
+insert counti 8000000
+insert counti 9000000
+insert counti 10000000
+insert counti 11000000
+insert counti 12000000
+insert counti 13000000
+insert counti 14000000
+insert counti 15000000
+insert counti 16000000
+insert counti 17000000
+insert counti 18000000
+insert counti 19000000
+insert counti 20000000
+insert counti 21000000
+insert counti 22000000
+insert counti 23000000
+insert counti 24000000
+insert counti 25000000
+insert counti 26000000
+insert counti 27000000
+insert counti 28000000
+insert counti 29000000
+insert counti 30000000
+insert counti 31000000
+insert counti 32000000
+insert counti 33000000
+insert counti 34000000
+insert counti 35000000
+insert counti 36000000
+insert counti 37000000
+insert counti 38000000
+insert counti 39000000
+insert counti 40000000
+insert counti 41000000
+insert counti 42000000
+insert counti 43000000
+insert counti 44000000
+insert counti 45000000
+insert counti 46000000
+insert counti 47000000
+Insert 48000000 took: 447778 [ms] -> Inserts per sec 107000
+sizeof(table) 1464.84 [MB]
+STX Seqtree stats:
+* leaf size:    24
+* leaf num:     3366068
+* leaf slots:   16
+* inner size:   400
+* inner num:    420252
+* inner slots:  16
+* theoretical index size: 248886432
+* index capacity:         1451734464
+* overall item count:     48000000
+ breathing_sum: 25490636, breathing_capacity 203925088
+ total_capacity: 1578.96 [MB] 
+ avgBYTE: 34.4929
+ insert_breathing: 5624955
+finish search 
+finish calculate time 
+search 432000*3=1296000
+ took: 7969 [ms]
+ -> Searches per sec 162630

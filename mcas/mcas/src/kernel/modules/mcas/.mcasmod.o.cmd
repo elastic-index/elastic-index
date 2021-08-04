@@ -1,0 +1,1 @@
+cmd_/home/moshikh/mcas_lookup/src/kernel/modules/mcas/mcasmod.o := ld -m elf_x86_64  -z max-page-size=0x200000   -r -o /home/moshikh/mcas_lookup/src/kernel/modules/mcas/mcasmod.o /home/moshikh/mcas_lookup/src/kernel/modules/mcas/mcas.o /home/moshikh/mcas_lookup/src/kernel/modules/mcas/page_walk.o ; scripts/mod/modpost /home/moshikh/mcas_lookup/src/kernel/modules/mcas/mcasmod.o

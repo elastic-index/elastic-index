@@ -1,0 +1,17 @@
+Insert 48000000 took: 439408 [ms] -> Inserts per sec 109000
+
+sizeof(table) 1464.84 [MB]
+STX Seqtree stats:
+* leaf size:    24
+* leaf num:     4013808
+* leaf slots:   16
+* inner size:   400
+* inner num:    500738
+* inner slots:  16
+* theoretical index size: 296626592
+* index capacity:         1770429104
+* overall item count:     48000000
+ breathing_sum: 19125040, breathing_capacity 153000320
+ total_capacity: 1834.33 [MB] 
+ avgBYTE: 40.0714
+ insert_breathing: 4218742

@@ -112,7 +112,7 @@ sh run.sh string
 sh run.sh uuid
 ``` 
 
-## H-Store experiments (paper: Section 6.3)
+## MCAS experiments (paper: Section 6.3)
 
-The code is in the `h-store` directory. Use the `run_benchmark_multi.py` to run the experiments.
+The code is in the `mcas` directory. See the README file there for instructions on how to compile the system and run the experiments.
 

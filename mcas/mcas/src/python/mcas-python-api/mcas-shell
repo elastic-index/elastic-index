@@ -1,0 +1,3 @@
+#!/bin/bash
+#PYTHONPATH=:/home/moshikh/mcas_lookup/build/src/python/mcas-python-api/build/lib.linux-x86_64-3.6 gdb --args "/usr/bin/python3.6" -i /home/moshikh/mcas_lookup/build/dist/lib/mcas-shell-init.py
+PYTHONPATH=:/home/moshikh/mcas_lookup/build/src/python/mcas-python-api/build/lib.linux-x86_64-3.6 "/usr/bin/python3.6" -i /home/moshikh/mcas_lookup/build/dist/lib/mcas-shell-init.py
